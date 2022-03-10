@@ -1,0 +1,4 @@
+description:  htu21d temperature and humidity sensor.
+compatible: "te,htu21d"
+
+include: i2c-device.yaml
